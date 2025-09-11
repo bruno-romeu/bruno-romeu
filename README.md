@@ -26,8 +26,7 @@
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-romeu&show_icons=true&theme=dark)  
 
-![bruno-romeu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bruno-romeu&theme=tokyonight&hide_border=false)
-
+![bruno-romeu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bruno-romeu&theme=dark&hide_border=false)
 ---
 
 ## 🌎 Conecte-se comigo
