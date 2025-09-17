@@ -23,8 +23,6 @@
 
 ## 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-romeu&layout=compact&theme=dark)
-
-![bruno-romeu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bruno-romeu&theme=dark&hide_border=false)
 ---
 
 ## 🌎 Conecte-se comigo
