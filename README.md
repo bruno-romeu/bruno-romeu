@@ -7,10 +7,10 @@
 ---
 
 ## 🔧 Tecnologias & Ferramentas
-- **Linguagens:** Python, JavaScript, PHP, HTML, CSS  
-- **Frameworks & Bibliotecas:** Django, Bootstrap  
+- **Linguagens:** Python, Java, PHP e JavaScript
+- **Frameworks & Bibliotecas:** Django, Bootstrap, TailwindCSS
 - **Banco de Dados:** MySQL, PostgreSQL  
-- **Outros:** Git, Docker, REST APIs
+- **Outros:** Git, Docker, REST APIs, Postman
 
 ---
 
