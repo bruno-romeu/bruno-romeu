@@ -24,6 +24,7 @@ Sou apaixonado pelo poder da tecnologia em transformar negócios e melhorar a vi
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
+
 ---
 
 ## 📌 Projetos em Destaque
