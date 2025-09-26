@@ -21,14 +21,7 @@ Sou apaixonado pelo poder da tecnologia em transformar negócios e melhorar a vi
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ### Outros 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,figma)](https://skillicons.dev)
-
----
-
-## 📌 Projetos em Destaque
-- [**E-commerce Django**](https://github.com/bruno-romeu/ecommerce-Django) – Loja virtual completa com Django, integração de APIs e boas práticas.  
-- [**Flix API Django**](https://github.com/bruno-romeu/flix-API-Django) – API de filmes desenvolvida com Django REST Framework.  
-- [**Portfolio**](https://github.com/bruno-romeu/portfolio) – Meu portfólio pessoal com projetos e contatos.  
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,figma)](https://skillicons.dev)  
 
 ---
 
