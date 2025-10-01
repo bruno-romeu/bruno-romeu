@@ -1,9 +1,9 @@
-👋 Olá, eu sou o Bruno Romeu da Silva
+ Olá, eu sou o Bruno Romeu da Silva
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💻 **Apaixonado por tecnologia, inovação e construção de soluções digitais**  
-🚀 **Atualmente focado em Python, Django e no desenvolvimento de sistemas robustos e escaláveis**  
-🤖 **Explorando Inteligência Artificial e Análise de Dados com Python, buscando aplicar esses conhecimentos em soluções inovadoras.**
+ **Estudante de Análise e Desenvolvimento de Sistemas**  
+ **Apaixonado por tecnologia, inovação e construção de soluções digitais**  
+ **Atualmente focado em Python, Django e no desenvolvimento de sistemas robustos e escaláveis**  
+ **Explorando Inteligência Artificial e Análise de Dados com Python, buscando aplicar esses conhecimentos em soluções inovadoras.**
 
 Sou apaixonado pelo poder da tecnologia em transformar negócios e melhorar a vida das pessoas. Meu foco é o desenvolvimento backend, com o objetivo de criar soluções eficientes, escaláveis e bem estruturadas. Além disso, estou expandindo meus horizontes para IA e análise de dados, a fim de explorar novos modelos e insights com Python.
 
@@ -25,7 +25,7 @@ Sou apaixonado pelo poder da tecnologia em transformar negócios e melhorar a vi
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-romeu&layout=compact&theme=dark)
 ---
 
