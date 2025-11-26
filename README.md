@@ -15,7 +15,7 @@ Sou apaixonado pelo poder da tecnologia em transformar negócios e melhorar a vi
 [![My Skills](https://skillicons.dev/icons?i=py,java,php,js)](https://skillicons.dev)
 
 ### Frameworks & Bibliotecas 
-[![My Skills](https://skillicons.dev/icons?i=django,react,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,react,flutter,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Banco de Dados 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
