@@ -26,7 +26,8 @@ Sou apaixonado pelo poder da tecnologia em transformar negócios e melhorar a vi
 ---
 
 ##  Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-romeu&layout=donut&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bruno-romeu&layout=donut-vertical&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=bruno-romeu&layout=donut-vertical&langs_count=6&theme=transparent)
+![Top Langs](https://github-stats-extended.vercel.app/api?username=bruno-romeu&theme=transparent)
 ---
 
 ## 🌎 Conecte-se comigo
