@@ -1,40 +1,30 @@
- Olá, eu sou o Bruno Romeu da Silva
+<h1 align="center">Olá, sou o Bruno Romeu da Silva</h1>
 
- **Estudante de Análise e Desenvolvimento de Sistemas**  
- **Apaixonado por tecnologia, inovação e construção de soluções digitais**  
- **Atualmente focado em Python, Django e no desenvolvimento de sistemas robustos e escaláveis**  
- **Explorando Inteligência Artificial e Análise de Dados com Python, buscando aplicar esses conhecimentos em soluções inovadoras.**
+<p align="center">
+  Full Stack Developer na <strong>Infinilabs</strong> · Análise e Desenvolvimento de Sistemas (ULBRA)
+</p>
 
-Sou apaixonado pelo poder da tecnologia em transformar negócios e melhorar a vida das pessoas. Meu foco é o desenvolvimento backend, com o objetivo de criar soluções eficientes, escaláveis e bem estruturadas. Além disso, estou expandindo meus horizontes para IA e análise de dados, a fim de explorar novos modelos e insights com Python.
-
----
-
-## 🔧 Tecnologias & Ferramentas
-
-### Linguagens 
-[![My Skills](https://skillicons.dev/icons?i=py,php,js,dart,java)](https://skillicons.dev)
-
-### Frameworks & Bibliotecas 
-[![My Skills](https://skillicons.dev/icons?i=django,laravel,react,flutter,tailwind,bootstrap)](https://skillicons.dev)
-
-### Banco de Dados 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-
-### Outros 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,figma)](https://skillicons.dev)  
+Construo sistemas web robustos, do backend ao frontend, incorporando IA ao meu fluxo de desenvolvimento para entregar soluções melhores, mais rápidas e bem testadas. Gosto de transformar problemas de negócio em sistemas eficientes e fáceis de evoluir.
 
 ---
 
-##  Estatísticas do GitHub
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bruno-romeu&layout=donut-vertical&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=bruno-romeu&layout=donut-vertical&langs_count=6&theme=transparent)
-![Top Langs](https://github-stats-extended.vercel.app/api?username=bruno-romeu&theme=transparent)
+[![My Skills](https://skillicons.dev/icons?i=py,php,js,ts)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=django,laravel,react)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=bruno-romeu&layout=donut-vertical&langs_count=6&theme=transparent)](https://github.com/bruno-romeu)
+
 ---
 
 ## 🌎 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-romeu-silva)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_______bruno/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-romeu-silva)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.rsilva2004@gmail.com)
-
----
-
-> "A tecnologia move o mundo, e eu quero fazer parte dessa mudança."  
