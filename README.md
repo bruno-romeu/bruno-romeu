@@ -10,4 +10,4 @@ Hoje boa parte do meu código é escrita junto com agentes de IA. O que me inter
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=py,ts,django,fastapi,react,nextjs,postgres,docker&perline=8" height="32" alt="Python, TypeScript, Django, FastAPI, React, Next.js, PostgreSQL, Docker">
+<img src="https://skillicons.dev/icons?i=py,ts,php,django,fastapi,laravel,react,nextjs,astro,tailwind,postgres,docker,azure,githubactions&perline=14" height="32" alt="Python, TypeScript, PHP, Django, FastAPI, Laravel, React, Next.js, Astro, Tailwind, PostgreSQL, Docker, Azure, GitHub Actions">
