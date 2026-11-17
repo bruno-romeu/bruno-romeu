@@ -1,30 +1,13 @@
-<h1 align="center">Olá, sou o Bruno Romeu da Silva</h1>
+Oi, sou o Bruno. Trabalho como desenvolvedor full stack na [Infinilabs](https://infinilabs.dev), em Porto Alegre, quase sempre com Python e TypeScript.
 
-<p align="center">
-  Full Stack Developer na <strong>Infinilabs</strong> · Análise e Desenvolvimento de Sistemas (ULBRA)
-</p>
+Hoje boa parte do meu código é escrita junto com agentes de IA. O que me interessa é fazer isso direito: spec antes de começar, decisão registrada, teste rodando contra o sistema real e revisão antes do merge.
 
-Construo sistemas web robustos, do backend ao frontend, incorporando IA ao meu fluxo de desenvolvimento para entregar soluções melhores, mais rápidas e bem testadas. Gosto de transformar problemas de negócio em sistemas eficientes e fáceis de evoluir.
+<samp>
+<a href="https://bruno-romeu.vercel.app/">portfólio</a> ·
+<a href="https://www.linkedin.com/in/bruno-romeu-silva">linkedin</a> ·
+<a href="mailto:bruno.rsilva2004@gmail.com">e-mail</a>
+</samp>
 
----
+<br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,js,ts)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=django,laravel,react)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=bruno-romeu&layout=donut-vertical&langs_count=6&theme=transparent)](https://github.com/bruno-romeu)
-
----
-
-## 🌎 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-romeu-silva)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.rsilva2004@gmail.com)
+<img src="https://skillicons.dev/icons?i=py,ts,django,fastapi,react,nextjs,postgres,docker&perline=8" height="32" alt="Python, TypeScript, Django, FastAPI, React, Next.js, PostgreSQL, Docker">
